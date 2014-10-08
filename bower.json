@@ -7,5 +7,6 @@
   "main": [
     "object-viewer.js",
     "object-viewer.css"
-  ]
+  ],
+  "ignore":[]
 }
