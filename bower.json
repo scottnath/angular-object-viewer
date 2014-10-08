@@ -1,0 +1,11 @@
+{
+  "name": "object-viewer",
+  "version": "0.1.0",
+  "dependencies": {
+    "angular": "1.3.0-rc.4"
+  },
+  "main": [
+    "object-viewer.js",
+    "object-viewer.css"
+  ]
+}
